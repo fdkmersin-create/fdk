@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="FDK compass mark">
+  <rect width="100" height="100" rx="28" fill="#fffdf5"/>
+  <circle cx="50" cy="50" r="34" fill="none" stroke="#a3263c" stroke-width="1.4"/>
+  <path d="M50 8 45.5 23 50 20 54.5 23Z" fill="#a3263c"/>
+  <path d="M92 50 77 45.5 80 50 77 54.5Z" fill="#20395f"/>
+  <path d="M50 92 54.5 77 50 80 45.5 77Z" fill="#a3263c"/>
+  <path d="M8 50 23 54.5 20 50 23 45.5Z" fill="#20395f"/>
+  <path d="M50 26v8m0 32v8M26 50h8m32 0h8" fill="none" stroke="#20395f" stroke-width="1.1" stroke-linecap="round"/>
+  <text x="50" y="56" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="300" letter-spacing="2.4" fill="#a3263c">FDK</text>
+  <circle cx="50" cy="64" r="1.6" fill="#20395f"/>
+</svg>
